@@ -17,4 +17,4 @@ B={1,2,3,4}
 print(A.issubset(B))
 print(B.issuperset(A)) 
 print(A.isdisjoint({7,8}))
-print(B.isdisjoint({4,9}))
+print(B.isdisjoint({4,9}))   
